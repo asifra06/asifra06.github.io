@@ -1,7 +1,7 @@
 
 # Andrew Sifra's Portfolio
 
-I am an electrical engineering major at CSUF and I plan on graduating in 2029.
+I am an electrical engineering major at Cal State Fullerton and I plan on graduating in 2029.
 
 My GitHub page is https://github.com/asifra06
 
